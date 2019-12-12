@@ -1,0 +1,44 @@
+body {
+    align: center;
+   
+    font-size: 25px;
+    font-weight: bold;
+     background-image:url(bg.jpg); 
+
+}
+#btn {
+   display: none;
+   border: 2px solid gray;
+   width: 160px;
+   
+   
+}
+button {
+   height: 70px; 
+   width: 70px;
+   vertical-align: top;
+   
+   border: none;
+   color: white;
+   text-align: center;
+   text-decoration: none;
+   font-size: 20px;
+   margin-top: 5px;
+}
+
+
+#turnTeller {
+   
+  
+   
+   width: 200px;height: 200px;*/
+   font-size: 100px;
+   color: red;
+
+
+  }
+  #a{width :60px;
+    left:350px;position:absolute;top:150px;font-size: 40px; color: red;border: solid black 2px;
+
+  }
+  #b{width :60px;left:1250px;position:absolute;top:150px;font-size: 40px;color: red;border: solid black 2px;}
